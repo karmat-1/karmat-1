@@ -62,7 +62,7 @@
 
 - 🐦 Twitter: [@engr_karmat](https://x.com/engr_karmat?t=b4eW04hr4luM3u6H7BungQ&s=09)
 
-- 📧 Email: [karmateen.2003@gmail.com]()
+- 📧 Email: karmateen.2003@gmail.com
 
 **Let's collaborate and build something amazing together! 🚀**
 
