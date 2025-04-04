@@ -22,7 +22,7 @@
 
 - HTML5, CSS3, Bootstrap
 
-- React.js (Frontend)
+- React.js,Nextjs (Frontend)
 
 - Express.js,Typescript, Node.js (Backend)
 
