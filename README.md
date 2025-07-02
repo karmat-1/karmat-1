@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Abdulkareem Abdulmateen
 
-## 🚀 Computer Engineering Student | Full-Stack Developer | AI Engineer 
+## Computer Engineering Student | AI Software Engineer 
 
-### I'm a passionate Full-Stack Developer and AI Engineer with expertise in designing, developing, and deploying scalable web applications and AI-driven solutions. I love solving complex problems and leveraging technology to create impactful solutions.
+### I'm a Software Engineer / AI Engineer with expertise in designing, developing, and deploying scalable web applications and AI-driven solutions. I love solving complex problems and leveraging technology to create impactful solutions.
 
 ## 🛠️ Technologies & Tools
 
@@ -20,17 +20,19 @@
 
 ### 🌐 Web Development:
 
-- HTML5, CSS3, Bootstrap
+- HTML5, CSS3 and Bootstrap
 
-- React.js,Nextjs (Frontend)
+- React.js, Vue.js and Nextjs (Frontend)
 
-- Express.js,Typescript, Node.js (Backend)
+- Express.js, Typescript and Node.js (Backend)
 
 - WordPress
 
 ### 🛢️ Databases:
 
 - MongoDB
+  
+- Postgress
 
 - MySQL
 
