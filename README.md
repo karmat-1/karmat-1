@@ -1,70 +1,88 @@
-# Hi there! 👋 I'm Abdulkareem Abdulmateen
+# Hey 🐥
 
-## Computer Engineering Student | AI Software Engineer 
+I'm the programmer 💻, the debugger 🔍, and a digital sorcerer 🪄.  
+My spellbook is filled with incantations written in JavaScript 🧪, PHP 🐘, and Python 🐍.  
+I'm always ready to turn bugs into *features* with a sprinkle of debugging magic. ✨
 
-### I'm a Software Engineer / AI Engineer with expertise in designing, developing, and deploying scalable web applications and AI-driven solutions. I love solving complex problems and leveraging technology to create impactful solutions.
+Don’t be fooled by my code-covered cape; I’ve been known to vanquish errors in style! 💥  
+And remember, in the world of coding, the true magic lies in the unseen lines of code... 🧠
 
-## 🛠️ Technologies & Tools
+---
+
+## 🔢 GitHub Stats:
+
+**Abdulkareem Abdulmateen's GitHub Stats**
+
+- 🌟 Total Stars Earned: `XX`
+- 📦 Total Commits (2025): `XXX`
+- 📌 Total PRs: `XXX`
+- 🐞 Total Issues: `XX`
+- 🤝 Contributed to (last year): `X`
+- 🧮 Total Contributions: `XXXX`
+- 🔥 Longest Streak: `20 Days`
+- 📆 Current Streak: `0 (as of Jul 16)`
+
+### 🔤 Most Used Languages
+
+- 🟦 TypeScript
+- 🟪 CSS
+- 🟨 HTML
+- 🟩 PHP
+- 🟧 SCSS
+- 🟫 C/C++
+- 🟨 MATLAB
+
+---
+
+## ❤️ My portfolio
+
+[@karmat-1](https://github.com/karmat-1?tab=repositories)
+
+---
+
+## 📬 How to reach me
+
+[![Twitter](https://img.shields.io/badge/X-@engr_karmat-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/engr_karmat?t=b4eW04hr4luM3u6H7BungQ&s=09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulkareem%20Abdulmateen-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkareem-abdulmateen-551534235)
+[![Email](https://img.shields.io/badge/Email-karmateen.2003@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:karmateen.2003@gmail.com)
+
+---
+
+## ⚒️ Technologies & Tools
 
 ### 💻 Programming Languages:
-
 - JavaScript (ES6+)
-
 - PHP
-
 - Python
-
 - C/C++
-
 - MATLAB
 
 ### 🌐 Web Development:
-
-- HTML5, CSS3 and Bootstrap
-
-- React.js, Vue.js and Nextjs (Frontend)
-
-- Express.js, Typescript and Node.js (Backend)
-
+- HTML5, CSS3, Bootstrap
+- React.js, Vue.js, Next.js
+- Express.js, TypeScript, Node.js
 - WordPress
 
 ### 🛢️ Databases:
-
 - MongoDB
-  
-- Postgress
-
+- PostgreSQL
 - MySQL
 
 ### ⚙️ Other Skills:
-
 - RESTful APIs & GraphQL
-
-- AI & Machine Learning (New Area of Interest !)
-
+- AI & Machine Learning
 - Git & GitHub
+
+---
 
 ## 📌 What I Do
 
-**💡 Develop full-stack web applications with modern technologies.**
+💡 Build full-stack web applications  
+🤖 Develop AI-powered solutions  
+🔧 Work with databases and optimize performance  
+📱 Design responsive, user-friendly interfaces  
+🚀 Stay curious and explore cutting-edge tech
 
-**🤖 Build AI-powered solutions for real-world problems.**
+---
 
-**🔧 Work with databases and optimize queries for better performance.**
-
-**📱 Create responsive and user-friendly UI/UX designs.**
-
-**🔍 Exploring cutting-edge technologies to stay ahead in the industry.**
-
-### 📫 Connect With Me
-
-- 🌎 Portfolio: [GITHUB](https://github.com/karmat-1?tab=repositories)
-
-- 💼 LinkedIn: [ Profile](https://www.linkedin.com/in/abdulkareem-abdulmateen-551534235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-- 🐦 Twitter: [@engr_karmat](https://x.com/engr_karmat?t=b4eW04hr4luM3u6H7BungQ&s=09)
-
-- 📧 Email: karmateen.2003@gmail.com
-
-**Let's collaborate and build something amazing together! 🚀**
-
+**Let’s collaborate and build something amazing together! 🚀**
