@@ -9,28 +9,13 @@ And remember, in the world of coding, the true magic lies in the unseen lines of
 
 ---
 
-## 🔢 GitHub Stats:
+## 🔢 GitHub Stats
 
-**Abdulkareem Abdulmateen's GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karmat-1&show_icons=true&theme=radical&count_private=true)
 
-- 🌟 Total Stars Earned: `XX`
-- 📦 Total Commits (2025): `XXX`
-- 📌 Total PRs: `XXX`
-- 🐞 Total Issues: `XX`
-- 🤝 Contributed to (last year): `X`
-- 🧮 Total Contributions: `XXXX`
-- 🔥 Longest Streak: `20 Days`
-- 📆 Current Streak: `0 (as of Jul 16)`
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karmat-1&layout=compact&theme=radical)
 
-### 🔤 Most Used Languages
-
-- 🟦 TypeScript
-- 🟪 CSS
-- 🟨 HTML
-- 🟩 PHP
-- 🟧 SCSS
-- 🟫 C/C++
-- 🟨 MATLAB
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=karmat-1&theme=radical&hide_border=false)
 
 ---
 
