@@ -1,8 +1,9 @@
 # Hi there! 👋 I'm Abdulkareem Abdulmateen
 
-## Computer Engineering Student | AI Software Engineer 
+## Computer Engineering Student | AI | Software Engineer 
 
 **I'm a Software Engineer / AI Engineer with expertise in designing, developing, and deploying scalable web applications and AI-driven solutions. I love solving complex problems and leveraging technology to create impactful solutions.**
+
 ---
 
 ## GitHub Stats
@@ -16,7 +17,7 @@
 
 ##  My portfolio
 
-[![GitHub](https://img.shields.io/badge/GitHub-@karmat--1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karmat-1?tab=repositories)
+[Abdulkareem Abdulmateeen](https://my-portfolio-pi-dusky-bjowz302k4.vercel.app/)
 
 ---
 
