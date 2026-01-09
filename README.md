@@ -59,4 +59,4 @@
 
 ---
 
-**Let’s collaborate and build something amazing together!**
+**currently building karmat engineering institute... a fully-fledge AI Engineering production institute, stay tuned!**
