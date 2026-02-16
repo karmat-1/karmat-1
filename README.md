@@ -1,61 +1,50 @@
 # Hi there! I'm Abdulkareem Abdulmateen 👋 
-### Computer Engineering Student | AI Engineer | Software Engineer 
+### Computer Engineering Student | AI Engineer (NLP & Computer Vision) | Software Engineer 
 
-> **A Software Engineer and AI enthusiast dedicated to designing, developing, and deploying scalable web applications and AI-driven solutions. I thrive on solving complex problems and turning ideas into impactful reality.**
+> **A Software Engineer and AI enthusiast dedicated to designing, developing, and deploying scalable web applications and AI-driven solutions.**
 
 ---
 
-### Quick Stats
+### 📊 Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=karmat-1&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmat-1&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karmat-1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmat-1&layout=compact&theme=radical&include_all_commits=true&hide=jupyter%20notebook" alt="Top Languages" height="180px" />
 </p>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=karmat-1&theme=radical&hide_border=false)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karmat-1&theme=radical" alt="GitHub Profile Summary" width="100%" />
+</p>
 
 ---
 
 ### Technologies & Tools
-
-#### Programming & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-#### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-#### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,php,cpp,react,nextjs,nodejs,vue,express,tensorflow,pytorch,opencv,mongodb,postgres,mysql,git,github,graphql,wordpress,matlab,bootstrap,html,css" />
+  </a>
+</p>
 
 ---
 
-### Currently Working On
-*  **Building:** [Karmat Engineering Institute](https://github.com/karmat-1) — A production-grade AI Engineering institute.
-*  **Exploring:** Advanced LLM architectures and Computer Vision.
-*  **Available for:** Collaborating on Open Source AI and Full-stack projects.
+### Current Focus: Karmat Engineering Institute
+**Building a production-grade AI Engineering institute.** *Stay tuned for updates on our latest AI models and engineering breakthroughs.*
 
 ---
 
-###  Connect With Me
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />](https://my-portfolio-pi-dusky-bjowz302k4.vercel.app/)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abdulkareem-abdulmateen-551534235)
-[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/engr_karmat)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:karmateen.2003@gmail.com)
+### What I Do
+-  **Full-Stack:** Building high-performance, scalable web apps.
+-  **AI/ML:** Developing and deploying intelligent solutions.
+-  **Systems:** Database optimization and architecture design.
+
+---
+
+### Connect & Portfolio
+<p align="left">
+<a href="https://my-portfolio-pi-dusky-bjowz302k4.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/abdulkareem-abdulmateen-551534235" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/engr_karmat" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="mailto:karmateen.2003@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
