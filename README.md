@@ -1,7 +1,7 @@
 # Hi there! I'm Abdulkareem Abdulmateen 👋 
-### Computer Engineering Student | AI Engineer (NLP & Computer Vision) | Software Engineer 
+### Product Engineer | AI Engineer (NLP & Computer Vision) | Software Engineer 
 
-> **A Software Engineer and AI enthusiast dedicated to designing, developing, and deploying scalable web applications and AI-driven solutions.**
+> **A Software Engineer and AI enthusiast dedicated to designing, developing, and deploying scalable SAAS Application and AI-driven solutions.**
 
 ---
 
@@ -27,15 +27,15 @@
 
 ---
 
-### Current Focus: Karmat Engineering Institute
-**Building a production-grade AI Engineering institute.** *Stay tuned for updates on our latest AI models and engineering breakthroughs.*
+### Building @ Karmat Engineering Limited 
+**Working on AI Model Development and AI Product Engineering** *Stay tuned for updates on our latest AI models and engineering breakthroughs.*
 
 ---
 
 ### What I Do
--  **Full-Stack:** Building high-performance, scalable web apps.
+-  **Software Engineer:** Building high-performance, scalable AI SAAS Application.
 -  **AI/ML:** Developing and deploying intelligent solutions.
--  **Systems:** Database optimization and architecture design.
+-  **Systems:** Optimization and architecture design.
 
 ---
 
