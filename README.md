@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abdulkareem%20Abdulmateen&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Product%20Engineer%20%7C%20AI%20Engineer%20%7C%20Software%20Engineer&descAlignY=55&descSize=16&animation=fadeIn" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abdulkareem%20Abdulmateen&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Product%20Engineer%20%7C%20AI%20Engineer%20%7C%20B.Eng%20Computer%20Engineering&descAlignY=55&descSize=15&animation=fadeIn" alt="header" width="100%" />
 
 <a href="https://my-portfolio-pi-dusky-bjowz302k4.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Designing+scalable+SaaS+applications;Building+AI+that+ships+to+production;NLP+%7C+Computer+Vision+%7C+Systems+Design" alt="what I do" />
@@ -18,13 +18,28 @@
 
 ## About
 
-A Software Engineer and AI enthusiast dedicated to designing, developing, and deploying **scalable SaaS applications** and **AI-driven solutions**.
+A Software and AI Product Engineer dedicated to designing, developing, and deploying **scalable SaaS applications** and **AI-driven solutions**.
 
-- **Software Engineering** — high-performance, scalable AI SaaS platforms
-- **AI / ML** — developing and deploying intelligent NLP & Computer Vision systems
-- **Systems** — optimization and architecture design
+🎓 **B.Eng in Computer Engineering**<br />
+💻 **Software Engineering:** high-performance, scalable AI SaaS platforms<br />
+🧠 **AI / ML:** developing and deploying intelligent NLP & Computer Vision systems<br />
+⚙️ **Systems:** optimization and architecture design
 
-> **Building @ Karmat Engineering Limited** — working on AI Model Development and AI Product Engineering. *Stay tuned for our latest models and engineering breakthroughs.*
+> **Building @ Karmat Engineering Limited:** working on AI Model Development and AI Product Engineering. *Stay tuned for our latest models and engineering breakthroughs.*
+
+---
+
+## Worked With
+
+<div align="center">
+
+<a href="https://karmat-hq.com/" target="_blank"><img src="https://img.shields.io/badge/Karmat%20Engineering%20Limited-Founder%20%26%20AI%20Product%20Engineer-38BDF8?style=for-the-badge&labelColor=0D1117" alt="Karmat Engineering Limited: Founder & AI Product Engineer" /></a>
+<a href="https://openprodkt.com/" target="_blank"><img src="https://img.shields.io/badge/OpenProdkt-Software%20Engineer-38BDF8?style=for-the-badge&labelColor=0D1117" alt="OpenProdkt: Software Engineer" /></a>
+<a href="https://techlava.ng/" target="_blank"><img src="https://img.shields.io/badge/TechLava%20Software-Frontend%20Engineer-38BDF8?style=for-the-badge&labelColor=0D1117" alt="TechLava Software: Frontend Engineer" /></a>
+<a href="https://galaxybackbone.com.ng/" target="_blank"><img src="https://img.shields.io/badge/Galaxy%20Backbone-Data%20Center%20Intern-38BDF8?style=for-the-badge&labelColor=0D1117" alt="Galaxy Backbone: Data Center Intern" /></a>
+<a href="https://www.techyjaunt.com/" target="_blank"><img src="https://img.shields.io/badge/TechyJaunt-Backend%20Developer-38BDF8?style=for-the-badge&labelColor=0D1117" alt="TechyJaunt: Backend Developer" /></a>
+
+</div>
 
 ---
 
