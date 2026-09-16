@@ -20,10 +20,10 @@
 
 A Software and AI Product Engineer dedicated to designing, developing, and deploying **scalable SaaS applications** and **AI-driven solutions**.
 
-🎓 **B.Eng in Computer Engineering**<br />
-💻 **Software Engineering:** high-performance, scalable AI SaaS platforms<br />
-🧠 **AI / ML:** developing and deploying intelligent NLP & Computer Vision systems<br />
-⚙️ **Systems:** optimization and architecture design
+- **B.Eng in Computer Engineering**<br />
+- **Software Engineering:** high-performance, scalable AI SaaS platforms<br />
+- **AI / ML:** developing and deploying intelligent NLP & Computer Vision systems<br />
+- **Systems:** optimization and architecture design
 
 > **Building @ Karmat Engineering Limited:** working on AI Model Development and AI Product Engineering. *Stay tuned for our latest models and engineering breakthroughs.*
 
