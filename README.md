@@ -18,14 +18,14 @@
 
 ## About
 
-A Software and AI Product Engineer dedicated to designing, developing, and deploying **scalable SaaS applications** and **AI-driven solutions**.
+I'm a **Product Engineer and AI Engineer** who builds software end to end, from training models to shipping them inside **scalable SaaS products**. I've worked across the stack in frontend, backend, AI/ML, and data center infrastructure roles, and I now lead AI Product & Engineering at my startup.
 
-- **B.Eng in Computer Engineering**<br />
-- **Software Engineering:** high-performance, scalable AI SaaS platforms<br />
-- **AI / ML:** developing and deploying intelligent NLP & Computer Vision systems<br />
-- **Systems:** optimization and architecture design
+- **AI / ML:** building and deploying NLP and computer vision systems that run in production
+- **Software Engineering:** high-performance, scalable SaaS platforms, from UI to APIs
+- **Systems:** architecture design and performance optimization
+- **Education:** B.Eng in Computer Engineering
 
-> **Building @ Karmat Engineering Limited:** working on AI Model Development and AI Product Engineering. *Stay tuned for our latest models and engineering breakthroughs.*
+> **Currently building @ [Karmat Engineering Limited](https://karmat-hq.com/):** as founder, I lead AI model development and AI product engineering. *New models and products are on the way, so stay tuned.*
 
 ---
 
@@ -47,25 +47,36 @@ A Software and AI Product Engineer dedicated to designing, developing, and deplo
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=py,ts,js,php,cpp,matlab&theme=dark" alt="languages" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,bootstrap&theme=dark" alt="frontend" />
-
-**Backend & Data**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mysql,mongodb&theme=dark" alt="backend" />
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="ai" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,wordpress&theme=dark" alt="tools" />
+<table>
+  <tr>
+    <td align="center" width="180"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,ts,js,php,cpp,matlab&theme=dark" alt="Python, TypeScript, JavaScript, PHP, C++, MATLAB" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="PyTorch, TensorFlow, scikit-learn, OpenCV" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,html,css,bootstrap&theme=dark" alt="Next.js, React, Vue, Tailwind CSS, HTML, CSS, Bootstrap" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend & APIs</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,graphql&theme=dark" alt="Node.js, Express, FastAPI, Django, Flask, GraphQL" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,cloudflare,docker,linux&theme=dark" alt="AWS, Google Cloud, Azure, Vercel, Cloudflare, Docker, Linux" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools & Design</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,postman,figma,wordpress&theme=dark" alt="Git, GitHub, Postman, Figma, WordPress" /></td>
+  </tr>
+</table>
 
 </div>
 
@@ -75,8 +86,8 @@ A Software and AI Product Engineer dedicated to designing, developing, and deplo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karmat-1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmat-1&layout=compact&include_all_commits=true&hide=jupyter%20notebook&hide_border=true&theme=tokyonight&title_color=38BDF8" alt="Top Languages" height="170" />
+<img src="https://raw.githubusercontent.com/karmat-1/karmat-1/output/stats.svg" alt="GitHub Stats" height="170" />
+<img src="https://raw.githubusercontent.com/karmat-1/karmat-1/output/top-langs.svg" alt="Top Languages" height="170" />
 
 <br />
 
@@ -84,11 +95,11 @@ A Software and AI Product Engineer dedicated to designing, developing, and deplo
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karmat-1&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%" />
+<img src="https://raw.githubusercontent.com/karmat-1/karmat-1/output/activity-graph.svg" alt="Activity Graph" width="100%" />
 
-<br />
+<br /><br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=karmat-1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+<img src="https://raw.githubusercontent.com/karmat-1/karmat-1/output/trophy.svg" alt="Trophies" />
 
 </div>
 
