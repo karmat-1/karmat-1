@@ -25,6 +25,10 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # snk runs in a Docker container as root, so dist/ ends up root-owned
+      - name: Make dist writable
+        run: sudo chown -R "$(id -u):$(id -g)" dist
+
       # STATS_TOKEN is an optional personal access token (scopes: repo, read:user)
       # so private contributions are counted; falls back to the workflow token.
       - name: Generate stats card
