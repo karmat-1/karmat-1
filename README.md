@@ -18,14 +18,14 @@
 
 ## About
 
-I'm a **Product Engineer and AI Engineer** who builds software end to end, from training models to shipping them inside **scalable SaaS products**. I've worked across the stack in frontend, backend, AI/ML, and data center infrastructure roles, and I now lead AI Product & Engineering at my startup.
+**AI Product Engineer** who builds software end to end, from training models to shipping them inside **scalable SaaS products**. I've worked across the stack in frontend, backend, AI/ML roles, and I now lead AI Product & Engineering @ Karmat Engineering.
 
 - **AI / ML:** building and deploying NLP and computer vision systems that run in production
 - **Software Engineering:** high-performance, scalable SaaS platforms, from UI to APIs
 - **Systems:** architecture design and performance optimization
 - **Education:** B.Eng in Computer Engineering
 
-> **Currently building @ [Karmat Engineering Limited](https://karmat-hq.com/):** as founder, I lead AI model development and AI product engineering. *New models and products are on the way, so stay tuned.*
+> **Building @ [Karmat Engineering](https://karmat-hq.com/):** as founding engineer, I lead AI model development and AI product engineering. *New models and products are on the way, so stay tuned.*
 
 ---
 
